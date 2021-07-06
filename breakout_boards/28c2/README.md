@@ -1,5 +1,5 @@
 # Motion Sensor Breakout Board (28c2)
-![Motion Sensor Breakout Board (28c2)](../assets/outline-28c2.png)
+![Motion Sensor Breakout Board (28c2)](../../assets/outline-28c2.png)
 
 * Panasonic EWTS5G 6 degrees of freedom (DoF) motion sensor
 
