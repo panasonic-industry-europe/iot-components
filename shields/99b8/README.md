@@ -1,5 +1,5 @@
 # Passive Interface Shield (99b8)
-![Passive Interface Shield (99b8)](../assets/outline-99b8.png)
+![Passive Interface Shield (99b8)](../../assets/outline-99b8.png)
 
 Links sensor and switch breakout boards to Arduino UNO, SoC module board and power supply shields. Breakout board supply voltage can be chosen to be 3,3 or 5 V. A jumper is used for voltage selection.
 
