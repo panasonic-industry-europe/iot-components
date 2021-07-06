@@ -1,5 +1,5 @@
 # Tactile Switch Breakout Board (c343)
-![Tactile Switch Breakout Board (c343)](../assets/outline-c343.png)
+![Tactile Switch Breakout Board (c343)](../../assets/outline-c343.png)
 
 * Panasonic EVPQL series tactile switch
 * Pull-down and pull-up operation possible
