@@ -1,5 +1,5 @@
 # Micro Switch Breakout Board (12f0)
-![Micro Switch Breakout Board (12f0)](../assets/outline-12f0.png)
+![Micro Switch Breakout Board (12f0)](../../assets/outline-12f0.png)
 
 * Panasonic ESE16 series micro switch
 * Pull-down and pull-up operation possible
