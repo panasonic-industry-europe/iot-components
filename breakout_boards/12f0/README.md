@@ -3,8 +3,9 @@
 
 * Panasonic ESE16 series micro switch [PRODUCT INFORMATION](https://industry.panasonic.eu/products/components/switches/detector-switches?utm_campaign=iot-components&utm_medium=github&utm_source=page-12f0)
 * Pull-down and pull-up operation possible
-* Pull-down operation: resistors marked DN populated
-* Pull-up operation: resistors marked UP populated
+* Pull-down operation: resistors marked "DN" populated
+* Pull-up operation: resistors marked "UP" populated
+* Binary output
 * Supply voltage levels: 1,8...5 V
 
 | Pin | Symbol | Function       |

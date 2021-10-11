@@ -59,6 +59,11 @@ Carries a Panasonic Industry Amorton AM-1522CA amorphous solar cell. Plugs into 
 
 Links sensor and switch breakout boards to Arduino UNO, SoC module board and power supply shields. [DETAILS](shields/99b8)
 
+### GPIO Debug Shield (d1ea)
+![GPIO Debug Shield (d1ea)](assets/outline-d1ea.png)
+
+Helps to debug Arduino input and output pins using optical feedback. [DETAILS](shields/d1ea)
+
 ### Shield Stacking
 All boards and shields are designed to support sensible stacking. It's recommended to start with SoC boards, add interfaces in the middle and put shields with batteries or solar cells at the top.
 
@@ -81,8 +86,8 @@ All boards and shields are designed to support sensible stacking. It's recommend
 ## Sensor and Switch Breakout Boards
 All breakout boards are 30 * 30 mm^2 in size and carry four 3,2 mm (126 mil) bores on each side. The bores' centers are spaced 8 mm apart and allow for easy mechanical connection to prototyping systems with 4, 8, 12, 16 pitch.
 
-### Micro Switch Breakout Board (12f0)
-![Micro Switch Board (12f0)](assets/outline-12f0.png)
+### Detector Switch Breakout Board (12f0)
+![Detector Switch Breakout Board (12f0)](assets/outline-12f0.png)
 
 * Panasonic ESE16 series micro switch
 * Binary digital output
@@ -91,7 +96,7 @@ All breakout boards are 30 * 30 mm^2 in size and carry four 3,2 mm (126 mil) bor
 Pull-up and pull-down configurations are available. [DETAILS](breakout_boards/12f0)
 
 ### Tactile Switch Breakout Board (2665)
-![Micro Switch Board (2665)](assets/outline-2665.png)
+![Tactile Switch Breakout Board (2665)](assets/outline-2665.png)
 
 * Panasonic EVQQ2 series tactile switch
 * Binary digital output
@@ -100,7 +105,7 @@ Pull-up and pull-down configurations are available. [DETAILS](breakout_boards/12
 Pull-up and pull-down configurations are available. [DETAILS](breakout_boards/2665)
 
 ### Tactile Switch Breakout Board (c343)
-![Micro Switch Board (c343)](assets/outline-c343.png)
+![Tactile Switch Breakout Board (c343)](assets/outline-c343.png)
 
 * Panasonic EVQPL series tactile switch
 * Binary digital output
@@ -108,8 +113,8 @@ Pull-up and pull-down configurations are available. [DETAILS](breakout_boards/26
 
 Pull-up and pull-down configurations are available. [DETAILS](breakout_boards/c343)
 
-### IR Sensor Array Breakout Board (de26)
-![IR Sensor Array Module (de26)](assets/outline-de26.png)
+### Infrared Array Sensor Breakout Board (de26)
+![Infrared Array Sensor Breakout Board (de26)](assets/outline-de26.png)
 
 * Panasonic AMG8833 or AMG8834 Grid-EYE sensor
 * I2C interface (address 0x68 or 0x69)
@@ -118,7 +123,7 @@ Pull-up and pull-down configurations are available. [DETAILS](breakout_boards/c3
 [DETAILS](breakout_boards/de26)
 
 ### Passive IR Sensor Breakout Board (c141)
-![Passive IR Sensor Module (c141)](assets/outline-c141.png)
+![Passive IR Sensor Breakout Board (c141)](assets/outline-c141.png)
 
 * Panasonic EKMC16 series PIR sensor
 * Analog and binary digital output (pull-down) versions are available.
@@ -127,7 +132,7 @@ Pull-up and pull-down configurations are available. [DETAILS](breakout_boards/c3
 [DETAILS](breakout_boards/c141)
 
 ### Pressure Sensor Breakout Board (61db)
-![Passive IR Sensor Module (61db)](assets/outline-61db.png)
+![Pressure Sensor Breakout Board (61db)](assets/outline-61db.png)
 
 * Panasonic PS-A ADP5201 sensor
 * Analog output
@@ -136,7 +141,7 @@ Pull-up and pull-down configurations are available. [DETAILS](breakout_boards/c3
 [DETAILS](breakout_boards/61db)
 
 ### Motion Sensor Breakout Board (28c2)
-![Motion Sensor Module (28c2)](assets/outline-28c2.png)
+![Motion Sensor Breakout Board (28c2)](assets/outline-28c2.png)
 
 * Panasonic EWTS5G motion sensor
 * SPI interface
@@ -156,7 +161,7 @@ Sensors with analog and binary digital output use 3 pin connectors and cable ass
 | Pin | Symbol | Function       |
 |-----|--------|----------------|
 | 1   | VCC    | Supply voltage |
-| 2   | SIG    | Sensor signal  |
+| 2   | OUT    | Output         |
 | 3   | GND    | Ground         |
 
 Sensors with I2C interface use 4 pin connectors and cable assemblies.
