@@ -6,8 +6,7 @@
 * Number of pixels: 64 (8*8)
 * AMG8833: object temperature 0 to 80 °C, marked "33"
 * AMG8834: object temperature -20 to 100 °C, marked "34"
-
-* I2C Interface
+* I2C interface
 * Address 0x68: R104 (0 Ohms) populated
 * Address 0x69: R103 (10 k) populated
 * Supply voltage level: 3,3 V

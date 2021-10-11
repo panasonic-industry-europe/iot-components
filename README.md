@@ -140,10 +140,10 @@ Pull-up and pull-down configurations are available. [DETAILS](breakout_boards/c3
 
 [DETAILS](breakout_boards/61db)
 
-### Motion Sensor Breakout Board (28c2)
-![Motion Sensor Breakout Board (28c2)](assets/outline-28c2.png)
+### Inertial Sensor Breakout Board (28c2)
+![Inertial Sensor Breakout Board (28c2)](assets/outline-28c2.png)
 
-* Panasonic EWTS5G motion sensor
+* Panasonic EWTS5G inertial sensor
 * SPI interface
 * 6P connector
 
