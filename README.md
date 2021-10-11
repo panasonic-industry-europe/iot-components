@@ -50,7 +50,7 @@ Uses CR2032 coin primary cell to provide 3 V to Arduino UNO 3,3 V pin for low-po
 Connects to an amorphous solar cell, converts voltage levels, stores harvested energy and powers low-power applications. Provides 1,8 V to Arduino UNO 3,3 V pin. Make sure to use boards and shields capable of ULV operation. [DETAILS](shields/ac2f)
 
 ### Indoor Solar Cell Shield (f70c)
-![Indoor Solar Energy Harvesting Power Management Shield (f70c)](assets/outline-f70c-am-1522ca.png)
+![Indoor Solar Cell Shield (f70c)](assets/outline-f70c-am-1522ca.png)
 
 Carries a Panasonic Industry Amorton AM-1522CA amorphous solar cell. Plugs into indoor solar energy harvesting power management shield. [DETAILS](shields/f70c)
 

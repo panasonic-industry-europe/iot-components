@@ -5,7 +5,9 @@ Links sensor and switch breakout boards to Arduino UNO, SoC module board and pow
 
 * The D0 to D5 ports connect to Arduino UNO D0 to D5 GPIOs.
 * The A0 to A5 ports connect to Arduino UNO A0 to A5 analog inputs.
-* The two I2C ports are duplicates. The SCL pins connect to Arduino UNO SCL (A5) and SDA (A4) pins.
+* The two I2C ports are duplicates. The I2C pins connect to Arduino UNO SCL and SDA pins.
+* Arduino UNO I2C interface: SCL pin = A5 pin, SDA pin = A4 pin
+* Other boards' I2C interface: Please, refer to respective documentation.
 * The SPI port connects to Arduino UNO SPI pins.
 
 **ATTENTION**
