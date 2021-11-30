@@ -84,6 +84,7 @@ All boards and shields are designed to support sensible stacking. It's recommend
 * -: No fit
 
 ## Sensor and Switch Breakout Boards
+![Breakout Board Dimensions](assets/breakout-board-dimensions.png)
 All breakout boards are 30 * 30 mm^2 in size and carry four 3,2 mm (126 mil) bores on each side. The bores' centers are spaced 8 mm apart and allow for easy mechanical connection to prototyping systems with 4, 8, 12, 16 pitch.
 
 ### Detector Switch Breakout Board (12f0)
