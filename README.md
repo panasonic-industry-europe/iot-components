@@ -131,6 +131,15 @@ Pull-up and pull-down configurations are available. [DETAILS](breakout_boards/c3
 
 [DETAILS](breakout_boards/c141)
 
+### Passive IR Sensor Breakout Board with LED (7ad7)
+![Passive IR Sensor Breakout Board with LED (7ad7)](assets/outline-7ad7.png)
+
+* Panasonic EKMC16 series PIR sensor
+* Binary digital output (pull-down)
+* 3P connector
+
+[DETAILS](breakout_boards/7ad7)
+
 ### Pressure Sensor Breakout Board (61db)
 ![Pressure Sensor Breakout Board (61db)](assets/outline-61db.png)
 
