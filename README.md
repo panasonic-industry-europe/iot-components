@@ -95,7 +95,7 @@ All breakout boards are 30 * 30 mm^2 in size and carry four 3,2 mm (126 mil) bor
 * Binary digital output
 * 3P connector
 
-Pull-up and pull-down configurations are available. [DETAILS](breakout_boards/12f0)
+Pull-up and pull-down configurations are possible. [DETAILS](breakout_boards/12f0)
 
 ### Tactile Switch Breakout Board (2665)
 ![Tactile Switch Breakout Board (2665)](assets/outline-2665.png)
@@ -104,7 +104,7 @@ Pull-up and pull-down configurations are available. [DETAILS](breakout_boards/12
 * Binary digital output
 * 3P connector
 
-Pull-up and pull-down configurations are available. [DETAILS](breakout_boards/2665)
+Pull-up and pull-down configurations are possible. [DETAILS](breakout_boards/2665)
 
 ### Tactile Switch Breakout Board (c343)
 ![Tactile Switch Breakout Board (c343)](assets/outline-c343.png)
@@ -113,7 +113,16 @@ Pull-up and pull-down configurations are available. [DETAILS](breakout_boards/26
 * Binary digital output
 * 3P connector
 
-Pull-up and pull-down configurations are available. [DETAILS](breakout_boards/c343)
+Pull-up and pull-down configurations are possible. [DETAILS](breakout_boards/c343)
+
+### Long Stroke Sealed Switch Breakout Board (98c6)
+![Long Stroke Sealed Switch Breakout Board (98c6)](assets/outline-98c6.png)
+
+* Panasonic ASQ series long stroke sealed switch
+* Binary digital output
+* 3P connector
+
+Pull-up and pull-down configurations are possible. [DETAILS](breakout_boards/98c6)
 
 ### Infrared Array Sensor Breakout Board (de26)
 ![Infrared Array Sensor Breakout Board (de26)](assets/outline-de26.png)
@@ -159,6 +168,15 @@ Pull-up and pull-down configurations are available. [DETAILS](breakout_boards/c3
 * 6P connector
 
 [DETAILS](breakout_boards/28c2)
+
+### Tilt Switch Breakout Board (a1b7)
+![Tilt Switch Breakout Board (a1b7)](assets/outline-a1b7.png)
+
+* Panasonic AHF series tilt switch
+* Binary digital output
+* 3P connector
+
+[DETAILS](breakout_boards/a1b7)
 
 ### Particulate Matter Sensor (57ca)
 * Panasonic SN-GCJA5 particulate matter (PM) sensor
