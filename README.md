@@ -115,14 +115,14 @@ Pull-up and pull-down configurations are possible. [DETAILS](breakout_boards/266
 
 Pull-up and pull-down configurations are possible. [DETAILS](breakout_boards/c343)
 
-### Long Stroke Sealed Switch Breakout Board (a1b7)
-![Long Stroke Sealed Switch Breakout Board (a1b7)](assets/outline-a1b7.png)
+### Long Stroke Sealed Switch Breakout Board (98c6)
+![Long Stroke Sealed Switch Breakout Board (98c6)](assets/outline-98c6.png)
 
 * Panasonic ASQ series long stroke sealed switch
 * Binary digital output
 * 3P connector
 
-Pull-up and pull-down configurations are possible. [DETAILS](breakout_boards/a1b7)
+Pull-up and pull-down configurations are possible. [DETAILS](breakout_boards/98c6)
 
 ### Infrared Array Sensor Breakout Board (de26)
 ![Infrared Array Sensor Breakout Board (de26)](assets/outline-de26.png)
@@ -168,6 +168,15 @@ Pull-up and pull-down configurations are possible. [DETAILS](breakout_boards/a1b
 * 6P connector
 
 [DETAILS](breakout_boards/28c2)
+
+### Tilt Switch Breakout Board (a1b7)
+![Tilt Switch Breakout Board (a1b7)](assets/outline-a1b7.png)
+
+* Panasonic AHF series tilt switch
+* Binary digital output
+* 3P connector
+
+[DETAILS](breakout_boards/a1b7)
 
 ### Particulate Matter Sensor (57ca)
 * Panasonic SN-GCJA5 particulate matter (PM) sensor
